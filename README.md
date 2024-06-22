@@ -23,7 +23,7 @@ Código UML
         +atualizarPagina()
     }
 
-    class RerprodutorVideo {
+    class ReprodutorVideo {
         +reproduzirVideo()
         +pausarVideo()
         +selecionarVideo(String video)
@@ -39,7 +39,7 @@ Código UML
     iPhone --> ReprodutorMusical
     iPhone --> AparelhoTelefonico
     iPhone --> NavegadorInternet
-    iPhone --> RerprodutorVideo
+    iPhone --> ReprodutorVideo
     
 
 
